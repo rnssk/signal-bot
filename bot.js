@@ -22,7 +22,8 @@ const triggers = [
   "リリース",
   "ありがと",
   "頑張",
-  "よろしく"
+  "よろしく",
+  "仮想通貨"
   ]
 
 function react(input) {
