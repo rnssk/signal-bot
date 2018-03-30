@@ -26,7 +26,7 @@ const triggers = [
   ]
 
 function react(input) {
-  input.react(":signal:425571254985031680").then( () => input.react(":signal_white:420429195097800704") ).then( () => input.react("😉") ).then( () => input.react("❤️") );;
+  input.react(":signal:425571254985031680").then( () => input.react(":signal_white:420429195097800704") ).then( () => input.react("😉") ).then( () => input.react("♥️") );;
 }
 
 client.on("message", (message) => {
