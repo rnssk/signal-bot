@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "auto reaction",
   "main": "bot.js",
+  "scripts": {
+     "start": "node bot.js"
+  },
   "author": "@Official_Laggin",
   "license": "MIT",
   "dependencies": {
