@@ -1,0 +1,12 @@
+{
+  "name": "signal-bot",
+  "version": "1.0.0",
+  "description": "auto reaction",
+  "main": "bot.js",
+  "author": "@Official_Laggin",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "moment": "^2.18.1"
+  }
+}
